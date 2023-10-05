@@ -838,28 +838,28 @@ ol li {
         padding: 25px;
     }
     #home-head #home-info .info .wrap h1 {
-        font-size: 52px;
+        font-size: 30px;
         font-weight: bold;
-        margin-bottom: 10px;
+        margin-bottom: -25px;
     }
     #home-head #home-info .info .wrap h3 {
         font-size: 24px;
         margin: 10px 0;
     }
     #home-head #home-info .info .wrap h5 {
-        font-size: 16px;
+        font-size: 1px;
         margin: 20px 0;
     }
     #home-head #home-info .loop {
         display: inline-block;
-        height: 500px;
+        height: 250px;
         position: absolute;
-        width: 500px;
+        width: 250px;
     }
     #home-head #home-info,
     #home-head #home-info .info {
-        height: 500px;
-        width: 500px;
+        height: 254px;
+        width: 252px;
     }
     #home-posts {
         margin-right: 50px;
